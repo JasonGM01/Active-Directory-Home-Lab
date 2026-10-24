@@ -286,5 +286,3 @@ This lab supports hands-on experience with:
 
 Jason Gonzalez Molina  
 Computer Science student at California State University, Dominguez Hills
-
-Computer Science student at California State University, Dominguez Hills
